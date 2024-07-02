@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 # Author: Richard Zins
 # Note this shell script is for arch systems
 # And remember since this installs pandoc you need to chmod u+s ssg.sh
