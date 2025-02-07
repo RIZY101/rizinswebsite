@@ -25,7 +25,7 @@ In addition, you will find some of my own software/hardware projects displayed h
 * Date - 02042025
 
 Recently I started teaching a graduate course at https://www.csuci.edu/[@CSUCI] on _Advanced Software Engineering_.
-The goal of the course is to give graduate students and idea of what working in an agile organization is like.
+The goal of the course is to give graduate students an idea of what working in an agile organization is like.
 I was really excited to share my work experience, but while preparing to teach the course I realized that I was overly critical of the agile practices I had been using.
 Maybe it's because I have been doing https://scaledagileframework.com/#full[SAFE] for so long that my feelings on agile have become negative given that the core framework I use is so complex that often its implementation typically goes against the core https://agilemanifesto.org/[agile values].
 Realizing all this, I knew choosing a good book would be important to keep my bias in check.
@@ -37,9 +37,9 @@ The 3 main reasons I went with this book are as follows:
 . Along with agile best practices, waterfall and formal methods are discussed.
 . There are modern programming practices encouraged without being overly dogmatic on using them in all scenarios.
 
-Maybe it has something to do with the fact that this book was originally developed in Portuguese, but the english trnslation is wonderfully direct and concise.
+Maybe it has something to do with the fact that this book was originally developed in Portuguese, but the english translation is wonderfully direct and concise.
 Another huge benefit to this book is that there is a *free* web version.
-This allows me to have the chapters render directly in https://www.instructure.com/canvas[Canvas] modules, and it also gives the students a no cost textbook!
+This allows me to have the chapters rendered directly in https://www.instructure.com/canvas[Canvas] modules, and it also gives the students a no cost textbook!
 So far this book has suited the class well, but my one nitpick would be that the code examples could probably be more fleshed out. Obviously within each chapter you wouldn't want giant examples, but I feel like there could be some larger examples added to the appendix.
 
 If you find yourself in need of a refresher on modern software engineering practices, I would highly recommend you consider supporting the author by purchasing a copy https://leanpub.com/softengbook[here].
