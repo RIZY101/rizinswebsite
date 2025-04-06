@@ -44,6 +44,13 @@ So far this book has suited the class well, but my one nitpick would be that the
 
 If you find yourself in need of a refresher on modern software engineering practices, I would highly recommend you consider supporting the author by purchasing a copy https://leanpub.com/softengbook[here].
 
+== Quotes
+
+[quote, Unknown]
+----
+Consistency breeds competence, and competence breeds confidence.
+----
+
 == CV
 
 IMPORTANT: coming soon
