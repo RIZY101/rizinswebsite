@@ -46,9 +46,10 @@ If you find yourself in need of a refresher on modern software engineering pract
 
 == Quotes
 
-[quote, Unknown]
+[quote]
 ----
 Consistency breeds competence, and competence breeds confidence.
+- Unknown
 ----
 
 == CV
