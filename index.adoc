@@ -11,7 +11,6 @@
 * Full-time Embedded Software Engineer https://www.northropgrumman.com/[@NGC]
 * Part-time Lecturer https://www.csuci.edu/[@CSUCI]
 * mailto:rizins@berkeley.edu[Email]
-* https://github.com/RIZY101[Github]
 
 This website is primarily for sharing small anecdotes on tools and topics I find interesting.
 Typically I do this in an informal https://simonwillison.net/2024/Dec/22/link-blog/[link blog] style, but sometimes I write larger essays.
@@ -44,14 +43,7 @@ So far this book has suited the class well, but my one nitpick would be that the
 
 If you find yourself in need of a refresher on modern software engineering practices, I would highly recommend you consider supporting the author by purchasing a copy https://leanpub.com/softengbook[here].
 
-== Quotes
-
-[quote]
-----
-Consistency breeds competence, and competence breeds confidence.
-- Unknown
-----
-
-== CV
-
-IMPORTANT: coming soon
+== Library
+=== Books
+* link:file:ugh.pdf[Unix Haters Handbook]
+* link:file:pgu.pdf[Programming from the Ground Up]
