@@ -45,5 +45,5 @@ If you find yourself in need of a refresher on modern software engineering pract
 
 == Library
 === Books
-* file:///ugh.pdf[Unix Haters Handbook]
-* file:///pgu.pdf[Programming from the Ground Up]
+* https://richardzins.dev/ugh.pdf[Unix Haters Handbook]
+* https://richardzins.dev/pgu.pdf[Programming from the Ground Up]
